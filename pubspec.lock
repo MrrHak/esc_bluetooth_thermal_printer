@@ -100,11 +100,9 @@ packages:
   flutter_bluetooth_basic:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: c6d5fec50e8b4612bd0a8242dcac51a7020a4526
-      url: "https://github.com/iceskyboy/flutter_bluetooth_basic.git"
-    source: git
+      name: flutter_bluetooth_basic
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.1.5"
   flutter_test:
     dependency: "direct dev"
@@ -180,7 +178,7 @@ packages:
       name: rxdart
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.25.0"
+    version: "0.23.1"
   sky_engine:
     dependency: transitive
     description: flutter

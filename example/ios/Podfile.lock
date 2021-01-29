@@ -1,0 +1,40 @@
+PODS:
+  - charset_converter (0.0.1):
+    - Flutter
+  - esc_bluetooth_thermal_printer (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_bluetooth_basic (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - charset_converter (from `.symlinks/plugins/charset_converter/ios`)
+  - esc_bluetooth_thermal_printer (from `.symlinks/plugins/esc_bluetooth_thermal_printer/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_bluetooth_basic (from `.symlinks/plugins/flutter_bluetooth_basic/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+
+EXTERNAL SOURCES:
+  charset_converter:
+    :path: ".symlinks/plugins/charset_converter/ios"
+  esc_bluetooth_thermal_printer:
+    :path: ".symlinks/plugins/esc_bluetooth_thermal_printer/ios"
+  Flutter:
+    :path: Flutter
+  flutter_bluetooth_basic:
+    :path: ".symlinks/plugins/flutter_bluetooth_basic/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+
+SPEC CHECKSUMS:
+  charset_converter: 215c7b04932ec2b9ba43be96a9bc34afed3e5322
+  esc_bluetooth_thermal_printer: 4aaedd444b011e62b0ede0806a767532f090f45c
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_bluetooth_basic: 0e4e27e22b50b3a25cc1d1e131953feb4af414f4
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
