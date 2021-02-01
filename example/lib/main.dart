@@ -132,14 +132,14 @@ class _MyHomePageState extends State<MyHomePage> {
     PaperSize paper = PaperSize.mm58;
     final profile = await CapabilityProfile.load();
     printerManager.setGenerator(paper, profile);
-    printerManager.text('Text size 200%');
+    printerManager.text('Text size 100%');
 
     final ByteData data = await rootBundle.load('lib/photo.png');
     final Uint8List bytes = data.buffer.asUint8List();
     final Image image = decodeImage(bytes);
     printerManager.image(image, align: PosAlign.left);
-    printerManager.feed(2);
-    // printerManager.cut();
+    // printerManager.feed(1);
+    printerManager.cut();
     await printerManager.connectPrinter(printer);
     await printerManager.print();
     await Future.delayed(const Duration(milliseconds: 100), () async {
