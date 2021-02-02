@@ -86,7 +86,10 @@ class PrinterBluetoothManager {
     // Connect
     await bluetoothManager.connect(_selectedPrinter.device);
     // _isConnected = await _bluetoothManager.isConnected;
-    writeBytes(_generator.reset());
+    if (_generator != null) {
+      writeBytes(_generator.reset());
+    }
+
     await Future.delayed(Duration(milliseconds: 500));
 
     return await bluetoothManager.isConnected;

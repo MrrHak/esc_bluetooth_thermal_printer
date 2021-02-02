@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   esc_pos_utils: ^1.0.0
-  rxdart: ^0.24.1
+  rxdart: ^0.25.0
 
   image: ^2.1.19
   # flutter_bluetooth_basic: ^0.1.5

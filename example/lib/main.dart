@@ -60,9 +60,9 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
-  void _stopScanDevices() {
-    printerManager.stopScan();
-  }
+  // void _stopScanDevices() {
+  //   printerManager.stopScan();
+  // }
 
   @override
   Widget build(BuildContext context) {
