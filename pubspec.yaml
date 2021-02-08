@@ -16,8 +16,8 @@ dependencies:
   image: ^2.1.19
   # flutter_bluetooth_basic: ^0.1.5
   flutter_bluetooth_basic:
-    git: https://github.com/MrrHak/flutter_bluetooth_basic.git
-    # git: https://github.com/iceskyboy/flutter_bluetooth_basic.git
+    # git: https://github.com/MrrHak/flutter_bluetooth_basic.git
+    git: https://github.com/iceskyboy/flutter_bluetooth_basic.git
 
 dev_dependencies:
   flutter_test:

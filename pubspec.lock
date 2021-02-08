@@ -102,8 +102,8 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: c1963115b407d69750d8a118b64a211b460a7538
-      url: "https://github.com/MrrHak/flutter_bluetooth_basic.git"
+      resolved-ref: c6d5fec50e8b4612bd0a8242dcac51a7020a4526
+      url: "https://github.com/iceskyboy/flutter_bluetooth_basic.git"
     source: git
     version: "0.1.5"
   flutter_test:
