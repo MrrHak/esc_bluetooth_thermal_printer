@@ -2,6 +2,7 @@
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
     <CLASSES>
       <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/git/flutter_bluetooth_basic-c1963115b407d69750d8a118b64a211b460a7538" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

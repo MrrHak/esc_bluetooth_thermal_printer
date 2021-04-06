@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
 import 'package:esc_bluetooth_thermal_printer/esc_bluetooth_thermal_printer.dart';
-import 'package:esc_pos_utils/esc_pos_utils.dart';
+import 'package:esc_pos_utils_plus/esc_pos_utils.dart';
 import 'package:flutter/material.dart' hide Image;
 import 'package:flutter/services.dart';
 import 'package:image/image.dart';

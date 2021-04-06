@@ -32,7 +32,7 @@ class PrinterBluetoothManager {
       {int spaceBetweenRows = 5}) {
     _generator =
         Generator(paperSize, profile, spaceBetweenRows: spaceBetweenRows);
-    mainData = new List<List<int>>();
+    mainData = [];
   }
 
   Generator _generator;

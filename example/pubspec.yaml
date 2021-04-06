@@ -11,16 +11,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   esc_bluetooth_thermal_printer:
     path: ../
-
-  cupertino_icons: ^0.1.2
-  image: ^2.1.19
-  charset_converter: ^1.0.3
-  intl: ^0.16.1
-  qr_flutter: ^3.2.0
-  path_provider: ^1.6.27
+  charset_converter: ^2.0.0
+  cupertino_icons: ^1.0.2
+  image: ^3.0.2
+  intl: ^0.17.0
+  path_provider: ^2.0.1
+  qr_flutter: ^4.0.0
 
 dev_dependencies:
   flutter_test:
@@ -28,7 +26,6 @@ dev_dependencies:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
-
 # The following section is specific to Flutter.
 flutter:
 
@@ -41,13 +38,10 @@ flutter:
   assets:
     - lib/photo.png
   #   - images/a_dot_ham.jpeg
-
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
-
   # For details regarding adding assets from package dependencies, see
   # https://flutter.dev/assets-and-images/#from-packages
-
   # To add custom fonts to your application, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
   # "family" key with the font family name, and a "fonts" key with a

@@ -7,8 +7,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[XVV7N16509002018]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nhSWiwYvTJ6QhEviyGEwagNrt5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,5 +36,11 @@
       <updated>1611840863090</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1336" height="634" key="AVDManager" timestamp="1614994694532">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="100" y="100" width="1336" height="634" key="AVDManager/0.0.1536.834/-1920.0.1858.1080@0.0.1536.834" timestamp="1614994694532" />
   </component>
 </project>
